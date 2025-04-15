@@ -3,14 +3,53 @@ owner: Data-Innova # Your GitHub organization or username, where this repository
 repo: monitoreo-fuentes # The name of this repository
 
 sites:
+  - name: Buscadores - Noticias
+    url: https://buscadores.compliance.com.co
+  - name: Certificar Backend
+    url: https://app.certificar.co/app/public/health
+  - name: Certificar Frontend
+    url: https://app.certificar.co
+  - name: Colombia LN - Bogotá 
+    url: http://colombia-ln-bogota.compliance.com.co/healthcheck
   - name: Colombia LN - AWS Datainnova
     url: https://colombia-ln.identidapp.com/healthcheck
   - name: Colombia LN
     url: https://colombia-ln.compliance.com.co/healthcheck
   - name: Colombia Información General
     url: https://colombia-ig.compliance.com.co/healthcheck
+  - name: Compliance/Datariesgos - Instances Batch
+    url: https://app.compliance.com.co/validador/healthBatch/healthChecks/health
+  - name: Compliance/Datariesgos - Instances Web
+    url: https://app.compliance.com.co/validador/apiPublica/healthChecks
+  - name: Compliance/Datariesgos - Instances WebService
+    url: https://app.compliance.com.co/validador/healthWs/healthChecks
+  - name: Extractor - Nodejs
+    url: https://extractor.compliance.com.co/healthcheck
+  - name: Extractor Nombres
+    url: https://nombres.compliance.com.co/healthcheck
+  - name: Fabrica de Captcas
+    url: https://captcha.compliance.com.co/captcha-service-health-check
+  - name: Fabrica de Nombres
+    url: https://fabricanombre.compliance.com.co/actuator/health
+  - name: Fuentes Ecuador
+    url: https://ecuador.compliance.com.co/healthcheck
+  - name: Fuentes Mexico
+    url: http://mexico.compliance.com.co/healthcheck
   - name: Fuentes Perú 
     url: https://peru-fuentes.compliance.com.co/healthcheck
+  - name: Identidapp Backend
+    url: https://app.identidapp.com/ApiPublica/Welcome/helloWorld
+  - name: Identidapp Frontend
+    url: https://app.identidapp.com/
+  - name: Listas Internacionales - Nodejs
+    url: https://listas-internacionales.compliance.com.co/healthcheck
+  - name: Listas Internacionales - Nodejs - AWS Datainnova
+    url: https://listas-internacionales.identidapp.com/healthcheck
+  - name: Liveness IDentidapp
+    url: https://liveness.identidapp.com/
+  - name: Siri - Nodejs
+    url: https://siri.compliance.com.co/healthcheck
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
