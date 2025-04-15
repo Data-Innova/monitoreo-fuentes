@@ -22,16 +22,6 @@ on:
   repository_dispatch:
     types: [setup]
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'warning'
-        type: choice
-        options:
-        - info
-        - warning
-        - debug
 jobs:
   release:
     name: Setup Upptime
