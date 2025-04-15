@@ -4,7 +4,7 @@ repo: monitoreo-fuentes # The name of this repository
 
 sites:
   - name: Buscadores - Noticias
-    url: https://buscadores.compliance.com.co
+    url: https://buscadores.compliance.com.co/healthcheck
   - name: Certificar Backend
     url: https://app.certificar.co/app/public/health
   - name: Certificar Frontend
