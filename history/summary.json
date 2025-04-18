@@ -58,19 +58,19 @@
     "url": "http://colombia-ln-bogota.compliance.com.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln-bogota.compliance.com.co.ico",
     "slug": "colombia-ln-bogota",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 374,
     "timeDay": 368,
     "timeWeek": 374,
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-04-18": 32
+      "2025-04-18": 59
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln.compliance.com.co.ico",
     "slug": "colombia-ln",
     "status": "up",
-    "uptime": "38.81%",
+    "uptime": "38.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.81%",
-    "uptimeMonth": "38.81%",
-    "uptimeYear": "38.81%",
+    "uptimeWeek": "38.59%",
+    "uptimeMonth": "38.59%",
+    "uptimeYear": "38.59%",
     "time": 7097,
     "timeDay": 553,
     "timeWeek": 7097,
     "timeMonth": 7097,
     "timeYear": 7097,
     "dailyMinutesDown": {
-      "2025-04-18": 1341,
+      "2025-04-18": 1368,
       "2025-04-17": 1440,
       "2025-04-16": 110
     }
