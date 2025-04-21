@@ -47,6 +47,8 @@ sites:
     url: https://listas-internacionales.identidapp.com/healthcheck
   - name: Liveness IDentidapp
     url: https://liveness.identidapp.com/
+  - name: Servidor Ecuador - Nodejs
+    url: http://38.165.231.40:5000/healthcheck
   - name: Siri - Nodejs
     url: https://siri.compliance.com.co/healthcheck
   
