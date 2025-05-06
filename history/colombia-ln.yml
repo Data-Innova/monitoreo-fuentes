@@ -1,7 +1,7 @@
 url: https://colombia-ln.compliance.com.co/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-06T23:15:55.446Z
+status: up
+code: 200
+responseTime: 375
+lastUpdated: 2025-05-06T23:29:49.737Z
 startTime: 2025-04-15T15:34:48.743Z
 generator: Upptime <https://github.com/upptime/upptime>
