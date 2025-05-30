@@ -27,6 +27,8 @@ sites:
     url: https://extractor.compliance.com.co/healthcheck
   - name: Extractor Nombres
     url: https://nombres.compliance.com.co/healthcheck
+  - name: Extractor Nombres Bogota
+    url: http://nombres-bogota.compliance.com.co/healthcheck
   - name: Fabrica de Captcas
     url: https://captcha.compliance.com.co/captcha-service-health-check
   - name: Fabrica de Nombres
