@@ -1,7 +1,7 @@
 url: http://nombres-bogota.compliance.com.co/healthcheck
-status: up
-code: 200
-responseTime: 425
-lastUpdated: 2025-06-01T19:08:28.189Z
+status: down
+code: 502
+responseTime: 176
+lastUpdated: 2025-06-01T21:29:24.297Z
 startTime: 2025-05-30T20:46:59.847Z
 generator: Upptime <https://github.com/upptime/upptime>
