@@ -1,7 +1,7 @@
 url: https://colombia-ln.identidapp.com/healthcheck
-status: up
-code: 200
-responseTime: 482
-lastUpdated: 2025-07-03T21:16:22.306Z
+status: down
+code: 504
+responseTime: 10270
+lastUpdated: 2025-07-03T21:33:06.680Z
 startTime: 2025-04-15T15:34:47.873Z
 generator: Upptime <https://github.com/upptime/upptime>
