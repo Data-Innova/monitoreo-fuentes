@@ -53,6 +53,8 @@ sites:
     url: http://38.165.231.40:5000/healthcheck
   - name: Siri - Nodejs
     url: https://siri.compliance.com.co/healthcheck
+  - name: Vehiculos - Nodejs
+    url: https://vehiculos.certificar.co/healthcheck
   
 
 status-website:
