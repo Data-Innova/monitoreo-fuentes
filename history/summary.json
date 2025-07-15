@@ -317,7 +317,7 @@
     "slug": "extractor-nombres-bogota",
     "status": "down",
     "uptime": "14.25%",
-    "uptimeDay": "66.65%",
+    "uptimeDay": "66.62%",
     "uptimeWeek": "13.41%",
     "uptimeMonth": "4.47%",
     "uptimeYear": "14.25%",
@@ -327,7 +327,7 @@
     "timeMonth": 230,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-07-15": 480,
+      "2025-07-15": 481,
       "2025-07-14": 1004,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
