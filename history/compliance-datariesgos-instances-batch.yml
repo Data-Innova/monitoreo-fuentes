@@ -1,7 +1,7 @@
 url: https://app.compliance.com.co/validador/healthBatch/healthChecks/health
-status: down
-code: 502
-responseTime: 8176
-lastUpdated: 2025-07-23T16:58:30.193Z
+status: up
+code: 200
+responseTime: 185
+lastUpdated: 2025-07-23T17:46:30.537Z
 startTime: 2025-04-15T16:41:42.823Z
 generator: Upptime <https://github.com/upptime/upptime>
