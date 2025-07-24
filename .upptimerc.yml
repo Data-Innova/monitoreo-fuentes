@@ -55,7 +55,8 @@ sites:
     url: https://siri.compliance.com.co/healthcheck
   - name: Vehiculos - Nodejs
     url: https://vehiculos.certificar.co/healthcheck
-  
+  - name: Vehiculos Bogotá - Nodejs
+    url: http://fuentes-bogota.certificar.co/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
