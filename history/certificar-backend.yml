@@ -1,7 +1,7 @@
 url: https://app.certificar.co/app/public/health
-status: down
-code: 504
-responseTime: 10136
-lastUpdated: 2025-07-28T17:40:38.381Z
+status: up
+code: 200
+responseTime: 68
+lastUpdated: 2025-07-28T17:52:55.957Z
 startTime: 2025-04-15T16:41:40.138Z
 generator: Upptime <https://github.com/upptime/upptime>
