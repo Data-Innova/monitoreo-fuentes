@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln-bogota.compliance.com.co.ico",
     "slug": "colombia-ln-bogota",
     "status": "up",
-    "uptime": "71.84%",
-    "uptimeDay": "9.64%",
-    "uptimeWeek": "18.03%",
-    "uptimeMonth": "48.60%",
-    "uptimeYear": "71.84%",
+    "uptime": "71.85%",
+    "uptimeDay": "11.11%",
+    "uptimeWeek": "18.24%",
+    "uptimeMonth": "48.65%",
+    "uptimeYear": "71.85%",
     "time": 601,
     "timeDay": 482,
     "timeWeek": 368,
@@ -174,7 +174,7 @@
     "uptimeYear": "81.14%",
     "time": 3198,
     "timeDay": 504,
-    "timeWeek": 1042,
+    "timeWeek": 1167,
     "timeMonth": 2836,
     "timeYear": 3198,
     "dailyMinutesDown": {
@@ -225,7 +225,7 @@
     "uptimeYear": "99.97%",
     "time": 477,
     "timeDay": 424,
-    "timeWeek": 378,
+    "timeWeek": 385,
     "timeMonth": 337,
     "timeYear": 477,
     "dailyMinutesDown": {
@@ -246,7 +246,7 @@
     "uptimeYear": "99.69%",
     "time": 1458,
     "timeDay": 410,
-    "timeWeek": 928,
+    "timeWeek": 1006,
     "timeMonth": 2168,
     "timeYear": 1458,
     "dailyMinutesDown": {
@@ -282,7 +282,7 @@
     "uptimeYear": "99.96%",
     "time": 34,
     "timeDay": 68,
-    "timeWeek": 25,
+    "timeWeek": 28,
     "timeMonth": 27,
     "timeYear": 34,
     "dailyMinutesDown": {
@@ -303,7 +303,7 @@
     "uptimeYear": "100.00%",
     "time": 30,
     "timeDay": 69,
-    "timeWeek": 25,
+    "timeWeek": 28,
     "timeMonth": 22,
     "timeYear": 30,
     "dailyMinutesDown": {}
@@ -321,7 +321,7 @@
     "uptimeYear": "99.45%",
     "time": 1553,
     "timeDay": 414,
-    "timeWeek": 1707,
+    "timeWeek": 1847,
     "timeMonth": 968,
     "timeYear": 1553,
     "dailyMinutesDown": {
@@ -347,7 +347,7 @@
     "uptimeYear": "100.00%",
     "time": 953,
     "timeDay": 428,
-    "timeWeek": 990,
+    "timeWeek": 1095,
     "timeMonth": 899,
     "timeYear": 953,
     "dailyMinutesDown": {}
@@ -360,16 +360,16 @@
     "status": "down",
     "uptime": "18.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.24%",
+    "uptimeWeek": "10.03%",
     "uptimeMonth": "19.84%",
     "uptimeYear": "18.52%",
     "time": 288,
     "timeDay": 216,
-    "timeWeek": 246,
+    "timeWeek": 224,
     "timeMonth": 293,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-08-04": 1397,
+      "2025-08-04": 1419,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
@@ -446,7 +446,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 279,
-    "timeWeek": 138,
+    "timeWeek": 152,
     "timeMonth": 133,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -464,7 +464,7 @@
     "uptimeYear": "99.99%",
     "time": 208,
     "timeDay": 325,
-    "timeWeek": 201,
+    "timeWeek": 207,
     "timeMonth": 175,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -484,7 +484,7 @@
     "uptimeYear": "100.00%",
     "time": 437,
     "timeDay": 463,
-    "timeWeek": 322,
+    "timeWeek": 325,
     "timeMonth": 349,
     "timeYear": 437,
     "dailyMinutesDown": {}
@@ -502,7 +502,7 @@
     "uptimeYear": "99.99%",
     "time": 345,
     "timeDay": 359,
-    "timeWeek": 346,
+    "timeWeek": 345,
     "timeMonth": 332,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -522,7 +522,7 @@
     "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 397,
-    "timeWeek": 278,
+    "timeWeek": 285,
     "timeMonth": 307,
     "timeYear": 378,
     "dailyMinutesDown": {}
@@ -540,7 +540,7 @@
     "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 373,
-    "timeWeek": 217,
+    "timeWeek": 229,
     "timeMonth": 198,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -558,7 +558,7 @@
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 142,
-    "timeWeek": 55,
+    "timeWeek": 61,
     "timeMonth": 48,
     "timeYear": 63,
     "dailyMinutesDown": {}
@@ -576,7 +576,7 @@
     "uptimeYear": "99.43%",
     "time": 2508,
     "timeDay": 3738,
-    "timeWeek": 1312,
+    "timeWeek": 1439,
     "timeMonth": 611,
     "timeYear": 2508,
     "dailyMinutesDown": {
@@ -600,7 +600,7 @@
     "uptimeYear": "100.00%",
     "time": 428,
     "timeDay": 588,
-    "timeWeek": 422,
+    "timeWeek": 442,
     "timeMonth": 413,
     "timeYear": 428,
     "dailyMinutesDown": {}
@@ -618,7 +618,7 @@
     "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 402,
-    "timeWeek": 200,
+    "timeWeek": 218,
     "timeMonth": 185,
     "timeYear": 200,
     "dailyMinutesDown": {}
@@ -636,7 +636,7 @@
     "uptimeYear": "99.98%",
     "time": 599,
     "timeDay": 672,
-    "timeWeek": 623,
+    "timeWeek": 626,
     "timeMonth": 629,
     "timeYear": 599,
     "dailyMinutesDown": {
@@ -652,11 +652,11 @@
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "96.67%",
+    "uptimeMonth": "96.72%",
     "uptimeYear": "98.89%",
     "time": 1425,
     "timeDay": 388,
-    "timeWeek": 536,
+    "timeWeek": 575,
     "timeMonth": 1773,
     "timeYear": 1425,
     "dailyMinutesDown": {
@@ -692,7 +692,7 @@
     "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 597,
-    "timeWeek": 469,
+    "timeWeek": 479,
     "timeMonth": 465,
     "timeYear": 465,
     "dailyMinutesDown": {}
@@ -702,19 +702,19 @@
     "url": "http://fuentes-bogota.certificar.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/fuentes-bogota.certificar.co.ico",
     "slug": "vehiculos-bogota-nodejs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 260,
-    "timeWeek": 409,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 425,
+    "timeDay": 332,
+    "timeWeek": 407,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2025-08-04": 1
+      "2025-08-04": 21
     }
   }
 ]
