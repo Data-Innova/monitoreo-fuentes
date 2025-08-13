@@ -9,6 +9,8 @@ sites:
     url: https://app.certificar.co/app/public/health
   - name: Certificar Frontend
     url: https://app.certificar.co
+  - name: Criticos
+    url: https://criticos.compliance.com.co/healthcheck
   - name: Colombia LN - Bogotá 
     url: http://colombia-ln-bogota.compliance.com.co/healthcheck
   - name: Colombia LN - AWS Datainnova
