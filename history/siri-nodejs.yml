@@ -1,7 +1,7 @@
 url: https://siri.compliance.com.co/healthcheck
-status: down
-code: 504
-responseTime: 10239
-lastUpdated: 2025-08-27T05:21:23.182Z
+status: up
+code: 200
+responseTime: 505
+lastUpdated: 2025-08-27T07:30:43.497Z
 startTime: 2025-04-15T16:42:58.447Z
 generator: Upptime <https://github.com/upptime/upptime>
