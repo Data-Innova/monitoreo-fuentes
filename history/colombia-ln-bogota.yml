@@ -1,7 +1,7 @@
 url: http://colombia-ln-bogota.compliance.com.co/healthcheck
-status: down
-code: 502
-responseTime: 154
-lastUpdated: 2025-08-28T11:40:35.216Z
+status: up
+code: 200
+responseTime: 597
+lastUpdated: 2025-08-28T11:50:05.655Z
 startTime: 2025-04-15T16:41:40.912Z
 generator: Upptime <https://github.com/upptime/upptime>
