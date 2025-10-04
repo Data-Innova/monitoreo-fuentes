@@ -1,7 +1,7 @@
 url: https://listas-internacionales.compliance.com.co/healthcheck
-status: up
-code: 200
-responseTime: 375
-lastUpdated: 2025-10-04T13:36:43.296Z
+status: down
+code: 504
+responseTime: 10168
+lastUpdated: 2025-10-04T13:46:42.433Z
 startTime: 2025-04-15T16:42:56.479Z
 generator: Upptime <https://github.com/upptime/upptime>
