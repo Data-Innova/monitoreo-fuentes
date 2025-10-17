@@ -1,7 +1,7 @@
 url: https://fabricanombre.compliance.com.co/actuator/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-17T07:43:11.924Z
+status: up
+code: 200
+responseTime: 206
+lastUpdated: 2025-10-17T07:51:04.259Z
 startTime: 2025-04-15T16:41:48.153Z
 generator: Upptime <https://github.com/upptime/upptime>
