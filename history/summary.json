@@ -556,11 +556,11 @@
     "url": "https://fabricanombre.compliance.com.co/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/fabricanombre.compliance.com.co.ico",
     "slug": "fabrica-de-nombres",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 263,
     "timeDay": 3545,
@@ -568,7 +568,7 @@
     "timeMonth": 499,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-10-17": 13,
+      "2025-10-17": 0,
       "2025-09-27": 26,
       "2025-05-30": 17
     }
