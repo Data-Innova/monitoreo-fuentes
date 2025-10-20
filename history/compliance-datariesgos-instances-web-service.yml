@@ -1,7 +1,7 @@
 url: https://app.compliance.com.co/validador/healthWs/healthChecks
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-20T16:26:52.375Z
+status: up
+code: 200
+responseTime: 29
+lastUpdated: 2025-10-20T17:33:18.713Z
 startTime: 2025-04-15T16:41:43.641Z
 generator: Upptime <https://github.com/upptime/upptime>
