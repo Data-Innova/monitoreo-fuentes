@@ -1,7 +1,7 @@
 url: https://colombia-ig.compliance.com.co/healthcheck
-status: up
-code: 200
-responseTime: 263
-lastUpdated: 2025-10-19T23:13:20.166Z
+status: down
+code: 504
+responseTime: 10121
+lastUpdated: 2025-10-20T14:34:33.754Z
 startTime: 2025-04-15T15:34:49.505Z
 generator: Upptime <https://github.com/upptime/upptime>
