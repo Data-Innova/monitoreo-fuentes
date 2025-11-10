@@ -1,7 +1,7 @@
 url: https://app.compliance.com.co/validador/apiPublica/healthChecks
-status: down
-code: 502
-responseTime: 50
-lastUpdated: 2025-11-10T21:41:38.545Z
+status: up
+code: 200
+responseTime: 74
+lastUpdated: 2025-11-10T21:51:10.016Z
 startTime: 2025-04-15T16:41:43.309Z
 generator: Upptime <https://github.com/upptime/upptime>
