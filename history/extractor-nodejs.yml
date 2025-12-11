@@ -1,7 +1,7 @@
 url: https://extractor.compliance.com.co/healthcheck
-status: up
-code: 200
-responseTime: 377
-lastUpdated: 2025-12-10T23:14:15.952Z
+status: down
+code: 503
+responseTime: 184
+lastUpdated: 2025-12-11T11:59:08.497Z
 startTime: 2025-04-15T16:41:43.941Z
 generator: Upptime <https://github.com/upptime/upptime>
