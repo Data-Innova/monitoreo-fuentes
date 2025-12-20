@@ -465,19 +465,19 @@
     "url": "https://nombres.compliance.com.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/nombres.compliance.com.co.ico",
     "slug": "extractor-nombres",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "92.57%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
-    "time": 864,
-    "timeDay": 1446,
-    "timeWeek": 938,
-    "timeMonth": 816,
-    "timeYear": 864,
+    "time": 866,
+    "timeDay": 1414,
+    "timeWeek": 964,
+    "timeMonth": 828,
+    "timeYear": 866,
     "dailyMinutesDown": {
-      "2025-12-20": 107
+      "2025-12-20": 119
     }
   },
   {
@@ -833,7 +833,7 @@
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.11%",
-    "uptimeMonth": "97.23%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "98.65%",
     "time": 606,
     "timeDay": 600,
