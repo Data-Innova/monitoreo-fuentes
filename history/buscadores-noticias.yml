@@ -1,7 +1,7 @@
 url: https://buscadores.compliance.com.co/healthcheck
-status: up
-code: 200
-responseTime: 1933
-lastUpdated: 2025-12-30T10:48:25.721Z
+status: down
+code: 504
+responseTime: 10209
+lastUpdated: 2025-12-30T16:58:55.972Z
 startTime: 2025-04-15T16:41:39.456Z
 generator: Upptime <https://github.com/upptime/upptime>
