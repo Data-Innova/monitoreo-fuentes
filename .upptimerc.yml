@@ -59,6 +59,18 @@ sites:
     url: https://vehiculos.certificar.co/healthcheck
   - name: Vehiculos Bogotá - Nodejs
     url: http://fuentes-bogota.certificar.co/healthcheck
+  - name: Compliance - Pagina Web
+    url: https://www.compliance.com.co/
+  - name: Datainnova - Pagina Web
+    url: http://datainnova.co/
+  - name: Certificar - Pagina Web
+    url: https://certificar.co/
+  - name: IDentidapp - Pagina Web
+    url: https://identidapp.com/
+  - name: Seguimiento Legal - Pagina Web
+    url: https://seguimientolegal.com/
+  - name: Tradentia - Pagina Web
+    url: https://tradentia.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
