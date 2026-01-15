@@ -258,11 +258,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln.compliance.com.co.ico",
     "slug": "colombia-ln",
     "status": "up",
-    "uptime": "92.28%",
+    "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.28%",
+    "uptimeYear": "92.29%",
     "time": 1756,
     "timeDay": 304,
     "timeWeek": 319,
@@ -951,10 +951,10 @@
     "url": "https://vehiculos.certificar.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/vehiculos.certificar.co.ico",
     "slug": "vehiculos-nodejs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 458,
@@ -962,7 +962,9 @@
     "timeWeek": 479,
     "timeMonth": 474,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-15": 1
+    }
   },
   {
     "name": "Vehiculos Bogotá - Nodejs",
