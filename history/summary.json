@@ -8,12 +8,12 @@
     "uptime": "98.00%",
     "uptimeDay": "86.96%",
     "uptimeWeek": "98.14%",
-    "uptimeMonth": "92.63%",
+    "uptimeMonth": "92.71%",
     "uptimeYear": "98.00%",
     "time": 2421,
     "timeDay": 349,
     "timeWeek": 379,
-    "timeMonth": 5026,
+    "timeMonth": 4963,
     "timeYear": 2421,
     "dailyMinutesDown": {
       "2026-01-20": 147,
@@ -768,10 +768,10 @@
     "url": "https://listas-internacionales.compliance.com.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/listas-internacionales.compliance.com.co.ico",
     "slug": "listas-internacionales-nodejs",
-    "status": "up",
+    "status": "down",
     "uptime": "97.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "97.25%",
     "time": 3660,
@@ -780,6 +780,7 @@
     "timeMonth": 2926,
     "timeYear": 3660,
     "dailyMinutesDown": {
+      "2026-01-20": 1,
       "2026-01-05": 27,
       "2026-01-03": 524,
       "2025-12-27": 139,
@@ -811,7 +812,7 @@
       "2025-08-04": 33,
       "2025-05-26": 30,
       "2025-05-25": 448,
-      "2025-05-07": 165
+      "2025-05-07": 139
     }
   },
   {
