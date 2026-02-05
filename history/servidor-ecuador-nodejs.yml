@@ -1,7 +1,7 @@
 url: http://38.165.231.40:5000/healthcheck
 status: up
 code: 200
-responseTime: 600
-lastUpdated: 2026-02-04T23:23:36.843Z
+responseTime: 585
+lastUpdated: 2026-02-05T23:20:19.087Z
 startTime: 2025-04-21T16:56:03.964Z
 generator: Upptime <https://github.com/upptime/upptime>
