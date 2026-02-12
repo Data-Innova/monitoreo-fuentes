@@ -1,7 +1,7 @@
 url: https://listas-internacionales.identidapp.com/healthcheck
-status: down
-code: 500
-responseTime: 6046
-lastUpdated: 2026-02-12T19:40:06.922Z
+status: up
+code: 200
+responseTime: 1698
+lastUpdated: 2026-02-12T20:49:37.822Z
 startTime: 2025-04-15T16:42:57.225Z
 generator: Upptime <https://github.com/upptime/upptime>
