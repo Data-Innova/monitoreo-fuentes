@@ -1,7 +1,7 @@
 url: https://ecuador.compliance.com.co/healthcheck
-status: down
-code: 500
-responseTime: 261
-lastUpdated: 2026-02-19T23:04:00.230Z
+status: up
+code: 200
+responseTime: 582
+lastUpdated: 2026-02-19T23:26:07.381Z
 startTime: 2025-04-15T16:41:48.639Z
 generator: Upptime <https://github.com/upptime/upptime>
