@@ -535,7 +535,7 @@
     "timeMonth": 214,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-03-11": 1306,
+      "2026-03-11": 1335,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -919,7 +919,7 @@
     "slug": "liveness-i-dentidapp",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "30.62%",
+    "uptimeDay": "32.64%",
     "uptimeWeek": "86.81%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "99.72%",
@@ -975,19 +975,19 @@
     "url": "https://siri.compliance.com.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/siri.compliance.com.co.ico",
     "slug": "siri-nodejs",
-    "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "83.15%",
-    "uptimeWeek": "95.77%",
+    "status": "down",
+    "uptime": "98.01%",
+    "uptimeDay": "83.08%",
+    "uptimeWeek": "95.76%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "98.00%",
+    "uptimeYear": "98.01%",
     "time": 1933,
     "timeDay": 3514,
     "timeWeek": 1715,
     "timeMonth": 892,
     "timeYear": 1933,
     "dailyMinutesDown": {
-      "2026-03-11": 208,
+      "2026-03-11": 209,
       "2026-03-10": 36,
       "2026-03-09": 99,
       "2026-03-08": 28,
@@ -1026,7 +1026,7 @@
       "2025-09-09": 571,
       "2025-09-08": 10,
       "2025-09-05": 894,
-      "2025-09-04": 252
+      "2025-09-04": 209
     }
   },
   {
