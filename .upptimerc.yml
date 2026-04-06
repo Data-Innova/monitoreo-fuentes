@@ -25,8 +25,8 @@ sites:
     url: https://app.compliance.com.co/validador/healthBatch/healthBatchCaller/health
   - name: Compliance/Datariesgos - Instances Web
     url: https://app.compliance.com.co/validador/apiPublica/healthChecks
-  - name: Compliance/Datariesgos - Instances WebService
-    url: https://app.compliance.com.co/validador/healthWs/healthChecks
+  - name: Compliance/Datariesgos - Instances WebService Internal
+    url: https://internal.compliance.com.co/validador/healthWs/healthChecks
     - name: Compliance/Datariesgos - Instances WebService Caller
     url: https://app.compliance.com.co/validador/healthWSCaller/healthChecks
   - name: Extractor - Nodejs
