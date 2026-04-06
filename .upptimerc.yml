@@ -22,7 +22,7 @@ sites:
   - name: Compliance/Datariesgos - Instances Batch
     url: https://app.compliance.com.co/validador/healthBatch/healthChecks/health
   - name: Compliance/Datariesgos - Instances Batch Caller
-    url: https://app.compliance.com.co/validador/healthBatch/healthBatchCaller/health
+    url: https://app.compliance.com.co/validador/healthBatchCaller/healthChecks/health
   - name: Compliance/Datariesgos - Instances Web
     url: https://app.compliance.com.co/validador/apiPublica/healthChecks
   - name: Compliance/Datariesgos - Instances WebService Internal
