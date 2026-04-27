@@ -286,7 +286,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.94%",
+    "uptimeYear": "96.98%",
     "time": 1462,
     "timeDay": 274,
     "timeWeek": 407,
@@ -315,8 +315,7 @@
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
-      "2025-04-28": 1440,
-      "2025-04-27": 1440
+      "2025-04-28": 1440
     }
   },
   {
@@ -555,18 +554,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nombres-bogota.compliance.com.co.ico",
     "slug": "extractor-nombres-bogota",
     "status": "down",
-    "uptime": "62.43%",
+    "uptime": "62.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.60%",
-    "uptimeYear": "62.43%",
+    "uptimeMonth": "73.16%",
+    "uptimeYear": "62.40%",
     "time": 362,
     "timeDay": 174,
     "timeWeek": 211,
     "timeMonth": 311,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2026-04-26": 1421,
+      "2026-04-27": 174,
+      "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -887,17 +887,17 @@
     "slug": "listas-internacionales-nodejs",
     "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "84.06%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "85.32%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "97.64%",
     "time": 3705,
-    "timeDay": 4688,
+    "timeDay": 5241,
     "timeWeek": 4100,
     "timeMonth": 3224,
     "timeYear": 3780,
     "dailyMinutesDown": {
-      "2026-04-26": 216,
+      "2026-04-26": 212,
       "2026-04-25": 114,
       "2026-04-23": 55,
       "2026-04-14": 188,
@@ -942,7 +942,7 @@
       "2025-09-26": 140,
       "2025-09-11": 1136,
       "2025-09-10": 14,
-      "2025-09-09": 162
+      "2025-09-09": 179
     }
   },
   {
