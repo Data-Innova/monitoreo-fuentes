@@ -14,7 +14,7 @@
     "timeDay": 419,
     "timeWeek": 384,
     "timeMonth": 393,
-    "timeYear": 2312,
+    "timeYear": 2314,
     "dailyMinutesDown": {
       "2026-03-16": 140,
       "2026-03-15": 396,
@@ -285,12 +285,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.39%",
+    "uptimeYear": "99.40%",
     "time": 1453,
     "timeDay": 433,
     "timeWeek": 1101,
     "timeMonth": 545,
-    "timeYear": 1363,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-10-20": 245,
       "2025-09-12": 66,
@@ -346,7 +346,7 @@
     "timeDay": 312,
     "timeWeek": 228,
     "timeMonth": 217,
-    "timeYear": 1165,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2026-03-18": 108,
       "2026-03-17": 282,
@@ -484,7 +484,7 @@
     "timeDay": 406,
     "timeWeek": 319,
     "timeMonth": 309,
-    "timeYear": 1313,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2026-02-03": 107,
       "2026-01-03": 371,
@@ -531,7 +531,7 @@
     "timeDay": 430,
     "timeWeek": 368,
     "timeMonth": 638,
-    "timeYear": 873,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2026-01-30": 222,
       "2026-01-03": 881,
@@ -545,18 +545,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nombres-bogota.compliance.com.co.ico",
     "slug": "extractor-nombres-bogota",
     "status": "down",
-    "uptime": "60.79%",
+    "uptime": "60.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.18%",
-    "uptimeYear": "60.79%",
+    "uptimeMonth": "44.05%",
+    "uptimeYear": "60.78%",
     "time": 360,
     "timeDay": 233,
     "timeWeek": 215,
     "timeMonth": 287,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2026-05-05": 1349,
+      "2026-05-05": 1408,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -748,7 +748,7 @@
     "timeDay": 234,
     "timeWeek": 169,
     "timeMonth": 952,
-    "timeYear": 221,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2026-04-27": 132
     }
@@ -792,7 +792,7 @@
     "timeDay": 405,
     "timeWeek": 311,
     "timeMonth": 310,
-    "timeYear": 419,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2026-02-19": 22,
       "2026-01-24": 18,
@@ -817,7 +817,7 @@
     "timeDay": 285,
     "timeWeek": 302,
     "timeMonth": 301,
-    "timeYear": 313,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -886,19 +886,19 @@
     "url": "https://listas-internacionales.compliance.com.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/listas-internacionales.compliance.com.co.ico",
     "slug": "listas-internacionales-nodejs",
-    "status": "up",
-    "uptime": "97.90%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "90.87%",
+    "status": "down",
+    "uptime": "97.91%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "90.86%",
     "uptimeMonth": "95.64%",
     "uptimeYear": "97.79%",
-    "time": 3701,
-    "timeDay": 3362,
-    "timeWeek": 3722,
-    "timeMonth": 3369,
-    "timeYear": 3815,
+    "time": 3711,
+    "timeDay": 6607,
+    "timeWeek": 3986,
+    "timeMonth": 3467,
+    "timeYear": 3831,
     "dailyMinutesDown": {
-      "2026-05-05": 70,
+      "2026-05-05": 71,
       "2026-05-04": 448,
       "2026-05-03": 73,
       "2026-05-02": 234,
@@ -946,7 +946,7 @@
       "2025-10-09": 32,
       "2025-10-04": 910,
       "2025-10-03": 297,
-      "2025-09-27": 687
+      "2025-09-27": 657
     }
   },
   {
@@ -964,7 +964,7 @@
     "timeDay": 412,
     "timeWeek": 390,
     "timeMonth": 392,
-    "timeYear": 1023,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2026-02-13": 195,
       "2026-02-12": 250
@@ -1043,7 +1043,7 @@
     "timeDay": 453,
     "timeWeek": 364,
     "timeMonth": 348,
-    "timeYear": 1894,
+    "timeYear": 1896,
     "dailyMinutesDown": {
       "2026-04-08": 255,
       "2026-04-07": 25,
