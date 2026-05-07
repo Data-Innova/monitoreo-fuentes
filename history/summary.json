@@ -573,7 +573,7 @@
     "timeMonth": 285,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2026-05-07": 913,
+      "2026-05-07": 915,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
@@ -907,7 +907,7 @@
     "slug": "listas-internacionales-nodejs",
     "status": "up",
     "uptime": "97.75%",
-    "uptimeDay": "95.48%",
+    "uptimeDay": "95.56%",
     "uptimeWeek": "81.59%",
     "uptimeMonth": "93.50%",
     "uptimeYear": "97.61%",
