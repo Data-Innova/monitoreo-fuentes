@@ -57,6 +57,8 @@ sites:
     url: https://liveness.identidapp.com/
   - name: Servidor Ecuador - Nodejs
     url: http://38.165.231.40:5000/healthcheck
+  - name: Servidor Ecuador 2 - Nodejs
+    url: http://38.165.231.81:5000/healthcheck
   - name: Siri - Nodejs
     url: https://siri.compliance.com.co/healthcheck
   - name: Vehiculos - Nodejs
