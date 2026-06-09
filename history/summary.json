@@ -994,10 +994,10 @@
     "slug": "servidor-ecuador-nodejs",
     "status": "down",
     "uptime": "97.31%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "67.90%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "67.89%",
     "uptimeMonth": "92.61%",
-    "uptimeYear": "96.96%",
+    "uptimeYear": "96.95%",
     "time": 597,
     "timeDay": 574,
     "timeWeek": 684,
@@ -1027,7 +1027,7 @@
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 326,
-      "2026-06-09": 28
+      "2026-06-09": 29
     }
   },
   {
@@ -1036,18 +1036,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/38.165.231.81.ico",
     "slug": "servidor-ecuador-2-nodejs",
     "status": "down",
-    "uptime": "83.63%",
-    "uptimeDay": "83.63%",
-    "uptimeWeek": "83.63%",
-    "uptimeMonth": "83.63%",
-    "uptimeYear": "83.63%",
+    "uptime": "70.85%",
+    "uptimeDay": "70.85%",
+    "uptimeWeek": "70.85%",
+    "uptimeMonth": "70.85%",
+    "uptimeYear": "70.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 1
+      "2026-06-09": 2
     }
   },
   {
@@ -1057,7 +1057,7 @@
     "slug": "siri-nodejs",
     "status": "up",
     "uptime": "98.38%",
-    "uptimeDay": "97.49%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "94.27%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "98.13%",
