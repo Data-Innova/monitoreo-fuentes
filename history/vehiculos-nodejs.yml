@@ -1,7 +1,7 @@
 url: https://vehiculos.certificar.co/healthcheck
-status: down
-code: 504
-responseTime: 10223
-lastUpdated: 2026-07-17T20:58:45.772Z
+status: up
+code: 200
+responseTime: 526
+lastUpdated: 2026-07-17T21:50:22.928Z
 startTime: 2025-07-15T23:15:31.093Z
 generator: Upptime <https://github.com/upptime/upptime>
