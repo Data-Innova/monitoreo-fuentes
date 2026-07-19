@@ -1,7 +1,7 @@
 url: https://peru-fuentes.compliance.com.co/healthcheck
-status: down
-code: 504
-responseTime: 10026
-lastUpdated: 2026-07-19T18:35:37.793Z
+status: up
+code: 200
+responseTime: 334
+lastUpdated: 2026-07-19T19:50:24.725Z
 startTime: 2025-04-15T15:34:50.204Z
 generator: Upptime <https://github.com/upptime/upptime>
