@@ -14,7 +14,7 @@
     "timeDay": 212,
     "timeWeek": 228,
     "timeMonth": 296,
-    "timeYear": 2230,
+    "timeYear": 2234,
     "dailyMinutesDown": {
       "2025-07-28": 18,
       "2025-07-30": 220,
@@ -127,7 +127,7 @@
     "timeDay": 168,
     "timeWeek": 168,
     "timeMonth": 194,
-    "timeYear": 103,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2026-03-10": 56
     }
@@ -167,16 +167,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln-bogota.compliance.com.co.ico",
     "slug": "colombia-ln-bogota",
     "status": "up",
-    "uptime": "92.78%",
+    "uptime": "92.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.29%",
+    "uptimeYear": "95.36%",
     "time": 405,
     "timeDay": 188,
     "timeWeek": 220,
     "timeMonth": 322,
-    "timeYear": 369,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2025-07-23": 1066,
       "2025-07-25": 29,
@@ -253,7 +253,7 @@
     "timeDay": 215,
     "timeWeek": 164,
     "timeMonth": 294,
-    "timeYear": 659,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-10-20": 182,
       "2026-02-14": 44
@@ -265,7 +265,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln.compliance.com.co.ico",
     "slug": "colombia-ln",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -296,7 +296,7 @@
     "timeDay": 91,
     "timeWeek": 115,
     "timeMonth": 216,
-    "timeYear": 363,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2025-10-20": 264
     }
@@ -316,7 +316,7 @@
     "timeDay": 116,
     "timeWeek": 174,
     "timeMonth": 189,
-    "timeYear": 982,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2025-07-23": 63,
       "2025-07-29": 19,
@@ -431,7 +431,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/extractor.compliance.com.co.ico",
     "slug": "extractor-nodejs",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
@@ -440,7 +440,7 @@
     "timeDay": 242,
     "timeWeek": 270,
     "timeMonth": 278,
-    "timeYear": 1000,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2025-07-30": 15,
       "2025-07-31": 27,
@@ -483,7 +483,7 @@
     "timeDay": 218,
     "timeWeek": 269,
     "timeMonth": 294,
-    "timeYear": 749,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-12-20": 193,
       "2026-01-03": 881,
@@ -497,16 +497,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nombres-bogota.compliance.com.co.ico",
     "slug": "extractor-nombres-bogota",
     "status": "up",
-    "uptime": "61.35%",
+    "uptime": "61.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.82%",
+    "uptimeMonth": "47.72%",
     "uptimeYear": "68.23%",
     "time": 355,
     "timeDay": 407,
     "timeWeek": 428,
     "timeMonth": 305,
-    "timeYear": 371,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2025-07-23": 21,
       "2025-07-25": 593,
@@ -739,24 +739,25 @@
     "url": "https://peru-fuentes.compliance.com.co/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/peru-fuentes.compliance.com.co.ico",
     "slug": "fuentes-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.82%",
-    "time": 423,
-    "timeDay": 261,
-    "timeWeek": 1362,
-    "timeMonth": 596,
-    "timeYear": 433,
+    "time": 444,
+    "timeDay": 5264,
+    "timeWeek": 2253,
+    "timeMonth": 890,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2025-10-20": 457,
       "2025-12-16": 30,
       "2026-02-19": 27,
       "2026-03-11": 35,
       "2026-06-19": 317,
-      "2026-07-19": 75
+      "2026-07-19": 75,
+      "2026-07-22": 1
     }
   },
   {
@@ -792,7 +793,7 @@
     "timeDay": 201,
     "timeWeek": 166,
     "timeMonth": 204,
-    "timeYear": 91,
+    "timeYear": 92,
     "dailyMinutesDown": {
       "2025-11-04": 26
     }
@@ -812,7 +813,7 @@
     "timeDay": 241,
     "timeWeek": 899,
     "timeMonth": 625,
-    "timeYear": 3548,
+    "timeYear": 3554,
     "dailyMinutesDown": {
       "2025-09-27": 657,
       "2025-10-03": 297,
@@ -881,7 +882,7 @@
     "timeDay": 267,
     "timeWeek": 338,
     "timeMonth": 350,
-    "timeYear": 995,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2026-02-12": 250,
       "2026-02-13": 195,
@@ -904,7 +905,7 @@
     "timeDay": 131,
     "timeWeek": 160,
     "timeMonth": 182,
-    "timeYear": 259,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2026-03-11": 865,
       "2026-03-10": 465
@@ -918,12 +919,12 @@
     "status": "up",
     "uptime": "97.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "96.74%",
     "time": 620,
     "timeDay": 687,
-    "timeWeek": 651,
+    "timeWeek": 645,
     "timeMonth": 873,
     "timeYear": 627,
     "dailyMinutesDown": {
@@ -986,7 +987,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/siri.compliance.com.co.ico",
     "slug": "siri-nodejs",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
@@ -995,7 +996,7 @@
     "timeDay": 295,
     "timeWeek": 310,
     "timeMonth": 316,
-    "timeYear": 1862,
+    "timeYear": 1865,
     "dailyMinutesDown": {
       "2025-09-09": 571,
       "2025-09-08": 10,
