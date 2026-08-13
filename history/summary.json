@@ -1036,11 +1036,11 @@
     "url": "https://www.compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "73.20%",
-    "uptimeWeek": "78.54%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "78.38%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.05%",
     "time": 307,
     "timeDay": 293,
@@ -1062,7 +1062,7 @@
       "2026-08-10": 514,
       "2026-08-11": 247,
       "2026-08-12": 478,
-      "2026-08-13": 203
+      "2026-08-13": 219
     }
   },
   {
@@ -1088,11 +1088,11 @@
     "url": "https://certificar.co/",
     "icon": "https://icons.duckduckgo.com/ip3/certificar.co.ico",
     "slug": "certificar-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "74.88%",
-    "uptimeWeek": "79.88%",
-    "uptimeMonth": "94.40%",
+    "uptimeDay": "74.08%",
+    "uptimeWeek": "79.76%",
+    "uptimeMonth": "94.37%",
     "uptimeYear": "99.09%",
     "time": 307,
     "timeDay": 476,
@@ -1115,7 +1115,7 @@
       "2026-08-10": 482,
       "2026-08-11": 227,
       "2026-08-12": 454,
-      "2026-08-13": 193
+      "2026-08-13": 204
     }
   },
   {
@@ -1123,12 +1123,12 @@
     "url": "https://identidapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/identidapp.com.ico",
     "slug": "i-dentidapp-pagina-web",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "76.56%",
-    "uptimeWeek": "82.52%",
-    "uptimeMonth": "95.04%",
-    "uptimeYear": "99.19%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "76.11%",
+    "uptimeWeek": "82.45%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "99.18%",
     "time": 319,
     "timeDay": 254,
     "timeWeek": 292,
@@ -1150,7 +1150,7 @@
       "2026-08-10": 467,
       "2026-08-11": 197,
       "2026-08-12": 277,
-      "2026-08-13": 183
+      "2026-08-13": 190
     }
   },
   {
@@ -1158,10 +1158,10 @@
     "url": "https://seguimientolegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/seguimientolegal.com.ico",
     "slug": "seguimiento-legal-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "79.22%",
-    "uptimeWeek": "82.16%",
+    "uptimeDay": "79.10%",
+    "uptimeWeek": "82.14%",
     "uptimeMonth": "94.99%",
     "uptimeYear": "99.18%",
     "time": 613,
@@ -1185,7 +1185,7 @@
       "2026-08-10": 453,
       "2026-08-11": 189,
       "2026-08-12": 392,
-      "2026-08-13": 173
+      "2026-08-13": 175
     }
   },
   {
