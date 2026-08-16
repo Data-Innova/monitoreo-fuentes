@@ -1035,14 +1035,14 @@
     "url": "https://www.compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "78.94%",
-    "uptimeWeek": "71.48%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "71.46%",
     "uptimeMonth": "90.81%",
     "uptimeYear": "98.61%",
     "time": 313,
-    "timeDay": 349,
+    "timeDay": 346,
     "timeWeek": 332,
     "timeMonth": 320,
     "timeYear": 313,
@@ -1064,7 +1064,7 @@
       "2026-08-13": 551,
       "2026-08-14": 439,
       "2026-08-15": 316,
-      "2026-08-16": 304
+      "2026-08-16": 306
     }
   },
   {
@@ -1090,17 +1090,17 @@
     "url": "https://certificar.co/",
     "icon": "https://icons.duckduckgo.com/ip3/certificar.co.ico",
     "slug": "certificar-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "81.29%",
-    "uptimeWeek": "76.46%",
+    "uptimeDay": "81.18%",
+    "uptimeWeek": "76.45%",
     "uptimeMonth": "92.13%",
     "uptimeYear": "98.78%",
-    "time": 301,
-    "timeDay": 259,
-    "timeWeek": 303,
+    "time": 300,
+    "timeDay": 255,
+    "timeWeek": 302,
     "timeMonth": 287,
-    "timeYear": 301,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2026-03-13": 34,
       "2026-03-15": 1,
@@ -1120,7 +1120,7 @@
       "2026-08-13": 341,
       "2026-08-14": 367,
       "2026-08-15": 209,
-      "2026-08-16": 270
+      "2026-08-16": 272
     }
   },
   {
@@ -1128,16 +1128,16 @@
     "url": "https://identidapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/identidapp.com.ico",
     "slug": "i-dentidapp-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "84.44%",
-    "uptimeWeek": "79.90%",
+    "uptimeDay": "84.33%",
+    "uptimeWeek": "79.88%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "98.91%",
     "time": 317,
-    "timeDay": 259,
-    "timeWeek": 298,
-    "timeMonth": 298,
+    "timeDay": 251,
+    "timeWeek": 295,
+    "timeMonth": 297,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2026-03-13": 34,
@@ -1158,7 +1158,7 @@
       "2026-08-13": 317,
       "2026-08-14": 347,
       "2026-08-15": 178,
-      "2026-08-16": 224
+      "2026-08-16": 226
     }
   },
   {
@@ -1166,17 +1166,17 @@
     "url": "https://seguimientolegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/seguimientolegal.com.ico",
     "slug": "seguimiento-legal-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "80.04%",
+    "uptimeDay": "87.38%",
+    "uptimeWeek": "80.03%",
     "uptimeMonth": "93.18%",
     "uptimeYear": "98.94%",
-    "time": 579,
-    "timeDay": 310,
-    "timeWeek": 338,
-    "timeMonth": 412,
-    "timeYear": 579,
+    "time": 577,
+    "timeDay": 296,
+    "timeWeek": 335,
+    "timeMonth": 409,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2026-03-13": 33,
       "2026-03-15": 1,
@@ -1196,7 +1196,7 @@
       "2026-08-13": 293,
       "2026-08-14": 327,
       "2026-08-15": 163,
-      "2026-08-16": 179
+      "2026-08-16": 181
     }
   },
   {
