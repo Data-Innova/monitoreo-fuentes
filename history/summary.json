@@ -155,7 +155,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln-bogota.compliance.com.co.ico",
     "slug": "colombia-ln-bogota",
     "status": "up",
-    "uptime": "93.21%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -233,7 +233,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/colombia-ln.compliance.com.co.ico",
     "slug": "colombia-ln",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -279,12 +279,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 972,
     "timeDay": 346,
     "timeWeek": 196,
     "timeMonth": 182,
-    "timeYear": 871,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2025-08-28": 574,
       "2025-08-27": 121,
@@ -456,7 +456,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nombres-bogota.compliance.com.co.ico",
     "slug": "extractor-nombres-bogota",
     "status": "up",
-    "uptime": "63.88%",
+    "uptime": "63.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
@@ -1029,14 +1029,14 @@
     "url": "https://www.compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "79.82%",
-    "uptimeWeek": "75.81%",
-    "uptimeMonth": "88.72%",
+    "uptimeDay": "80.87%",
+    "uptimeWeek": "79.31%",
+    "uptimeMonth": "88.68%",
     "uptimeYear": "98.34%",
     "time": 316,
-    "timeDay": 384,
+    "timeDay": 391,
     "timeWeek": 355,
     "timeMonth": 327,
     "timeYear": 316,
@@ -1062,7 +1062,7 @@
       "2026-08-17": 374,
       "2026-08-18": 124,
       "2026-08-19": 182,
-      "2026-08-20": 239
+      "2026-08-20": 255
     }
   },
   {
@@ -1088,15 +1088,15 @@
     "url": "https://certificar.co/",
     "icon": "https://icons.duckduckgo.com/ip3/certificar.co.ico",
     "slug": "certificar-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "82.41%",
-    "uptimeWeek": "81.23%",
-    "uptimeMonth": "90.33%",
+    "uptimeDay": "83.47%",
+    "uptimeWeek": "82.81%",
+    "uptimeMonth": "90.31%",
     "uptimeYear": "98.55%",
     "time": 299,
-    "timeDay": 292,
-    "timeWeek": 268,
+    "timeDay": 288,
+    "timeWeek": 261,
     "timeMonth": 288,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -1122,7 +1122,7 @@
       "2026-08-17": 332,
       "2026-08-18": 96,
       "2026-08-19": 148,
-      "2026-08-20": 226
+      "2026-08-20": 237
     }
   },
   {
@@ -1130,15 +1130,15 @@
     "url": "https://identidapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/identidapp.com.ico",
     "slug": "i-dentidapp-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "83.76%",
-    "uptimeWeek": "82.94%",
-    "uptimeMonth": "91.35%",
+    "uptimeDay": "84.81%",
+    "uptimeWeek": "84.43%",
+    "uptimeMonth": "91.34%",
     "uptimeYear": "98.70%",
     "time": 322,
-    "timeDay": 308,
-    "timeWeek": 336,
+    "timeDay": 299,
+    "timeWeek": 338,
     "timeMonth": 317,
     "timeYear": 322,
     "dailyMinutesDown": {
@@ -1164,7 +1164,7 @@
       "2026-08-17": 307,
       "2026-08-18": 86,
       "2026-08-19": 134,
-      "2026-08-20": 213
+      "2026-08-20": 219
     }
   },
   {
@@ -1172,15 +1172,15 @@
     "url": "https://seguimientolegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/seguimientolegal.com.ico",
     "slug": "seguimiento-legal-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "85.10%",
-    "uptimeWeek": "84.61%",
-    "uptimeMonth": "91.68%",
+    "uptimeDay": "86.16%",
+    "uptimeWeek": "86.05%",
+    "uptimeMonth": "91.67%",
     "uptimeYear": "98.74%",
     "time": 568,
-    "timeDay": 648,
-    "timeWeek": 360,
+    "timeDay": 382,
+    "timeWeek": 364,
     "timeMonth": 422,
     "timeYear": 568,
     "dailyMinutesDown": {
@@ -1206,7 +1206,7 @@
       "2026-08-17": 282,
       "2026-08-18": 63,
       "2026-08-19": 119,
-      "2026-08-20": 198
+      "2026-08-20": 200
     }
   },
   {
