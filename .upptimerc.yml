@@ -45,6 +45,12 @@ sites:
     url: http://mexico.compliance.com.co/healthcheck
   - name: Fuentes Perú 
     url: https://peru-fuentes.compliance.com.co/healthcheck
+  - name: Grafos Neo4j - App
+    url: https://neo4j.datainnova.co/
+  - name: Grafos Neo4j - Api
+    check: "tcp-ping"
+    url: grafos.datainnova.co
+    port: neo4j+s://7687
   - name: Identidapp Backend
     url: https://app.identidapp.com/ApiPublica/Welcome/helloWorld
   - name: Identidapp Frontend
