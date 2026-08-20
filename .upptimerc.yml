@@ -50,7 +50,7 @@ sites:
   - name: Grafos Neo4j - Api
     check: "tcp-ping"
     url: grafos.datainnova.co
-    port: neo4j+s://7687
+    port: 7687
   - name: Identidapp Backend
     url: https://app.identidapp.com/ApiPublica/Welcome/helloWorld
   - name: Identidapp Frontend
