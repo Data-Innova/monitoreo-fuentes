@@ -454,8 +454,8 @@
     "status": "down",
     "uptime": "63.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.74%",
-    "uptimeMonth": "93.43%",
+    "uptimeWeek": "71.68%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "71.29%",
     "time": 360,
     "timeDay": 223,
@@ -597,7 +597,7 @@
       "2026-06-14": 1440,
       "2026-06-13": 430,
       "2026-08-16": 31,
-      "2026-08-23": 1145,
+      "2026-08-23": 1151,
       "2026-08-22": 1440,
       "2026-08-21": 264
     }
@@ -1065,16 +1065,16 @@
     "url": "https://www.compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "78.80%",
-    "uptimeWeek": "83.97%",
-    "uptimeMonth": "87.28%",
-    "uptimeYear": "98.17%",
+    "status": "up",
+    "uptime": "98.16%",
+    "uptimeDay": "78.45%",
+    "uptimeWeek": "83.92%",
+    "uptimeMonth": "87.26%",
+    "uptimeYear": "98.16%",
     "time": 318,
-    "timeDay": 325,
-    "timeWeek": 349,
-    "timeMonth": 334,
+    "timeDay": 313,
+    "timeWeek": 346,
+    "timeMonth": 333,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2026-04-13": 120,
@@ -1101,7 +1101,7 @@
       "2026-08-20": 316,
       "2026-08-21": 105,
       "2026-08-22": 162,
-      "2026-08-23": 287
+      "2026-08-23": 292
     }
   },
   {
@@ -1127,17 +1127,17 @@
     "url": "https://certificar.co/",
     "icon": "https://icons.duckduckgo.com/ip3/certificar.co.ico",
     "slug": "certificar-pagina-web",
-    "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "83.51%",
-    "uptimeWeek": "86.75%",
-    "uptimeMonth": "89.20%",
-    "uptimeYear": "98.42%",
-    "time": 297,
-    "timeDay": 258,
-    "timeWeek": 269,
-    "timeMonth": 285,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "98.41%",
+    "uptimeDay": "83.17%",
+    "uptimeWeek": "86.70%",
+    "uptimeMonth": "89.19%",
+    "uptimeYear": "98.41%",
+    "time": 296,
+    "timeDay": 255,
+    "timeWeek": 268,
+    "timeMonth": 284,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2026-03-13": 34,
       "2026-03-15": 1,
@@ -1164,7 +1164,7 @@
       "2026-08-20": 258,
       "2026-08-21": 95,
       "2026-08-22": 130,
-      "2026-08-23": 237
+      "2026-08-23": 242
     }
   },
   {
@@ -1172,16 +1172,16 @@
     "url": "https://identidapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/identidapp.com.ico",
     "slug": "i-dentidapp-pagina-web",
-    "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "86.69%",
-    "uptimeWeek": "88.70%",
-    "uptimeMonth": "90.48%",
-    "uptimeYear": "98.60%",
+    "status": "up",
+    "uptime": "98.59%",
+    "uptimeDay": "86.35%",
+    "uptimeWeek": "88.65%",
+    "uptimeMonth": "90.47%",
+    "uptimeYear": "98.59%",
     "time": 322,
-    "timeDay": 360,
-    "timeWeek": 350,
-    "timeMonth": 322,
+    "timeDay": 340,
+    "timeWeek": 346,
+    "timeMonth": 320,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2026-03-13": 34,
@@ -1209,7 +1209,7 @@
       "2026-08-20": 213,
       "2026-08-21": 75,
       "2026-08-22": 115,
-      "2026-08-23": 192
+      "2026-08-23": 197
     }
   },
   {
@@ -1217,17 +1217,17 @@
     "url": "https://seguimientolegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/seguimientolegal.com.ico",
     "slug": "seguimiento-legal-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "90.24%",
-    "uptimeMonth": "90.94%",
+    "uptimeDay": "89.17%",
+    "uptimeWeek": "90.19%",
+    "uptimeMonth": "90.93%",
     "uptimeYear": "98.66%",
-    "time": 576,
-    "timeDay": 459,
-    "timeWeek": 546,
-    "timeMonth": 470,
-    "timeYear": 576,
+    "time": 575,
+    "timeDay": 436,
+    "timeWeek": 538,
+    "timeMonth": 468,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2026-03-13": 33,
       "2026-03-15": 1,
@@ -1254,7 +1254,7 @@
       "2026-08-20": 198,
       "2026-08-21": 70,
       "2026-08-22": 100,
-      "2026-08-23": 151
+      "2026-08-23": 156
     }
   },
   {
