@@ -451,9 +451,9 @@
     "status": "down",
     "uptime": "63.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.45%",
-    "uptimeMonth": "86.00%",
-    "uptimeYear": "70.67%",
+    "uptimeWeek": "38.87%",
+    "uptimeMonth": "85.86%",
+    "uptimeYear": "70.66%",
     "time": 359,
     "timeDay": 190,
     "timeWeek": 324,
@@ -594,7 +594,7 @@
       "2026-06-14": 1440,
       "2026-06-13": 430,
       "2026-08-16": 31,
-      "2026-08-26": 80,
+      "2026-08-26": 138,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1066,12 +1066,12 @@
     "url": "https://www.compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
-    "uptime": "98.10%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "86.79%",
-    "uptimeMonth": "86.64%",
-    "uptimeYear": "98.10%",
+    "status": "down",
+    "uptime": "98.09%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "86.60%",
+    "uptimeYear": "98.09%",
     "time": 320,
     "timeDay": 265,
     "timeWeek": 355,
@@ -1104,7 +1104,8 @@
       "2026-08-22": 162,
       "2026-08-23": 320,
       "2026-08-24": 149,
-      "2026-08-25": 98
+      "2026-08-25": 98,
+      "2026-08-26": 16
     }
   },
   {
@@ -1130,12 +1131,12 @@
     "url": "https://certificar.co/",
     "icon": "https://icons.duckduckgo.com/ip3/certificar.co.ico",
     "slug": "certificar-pagina-web",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "88.64%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "89.07%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "98.35%",
     "time": 297,
     "timeDay": 284,
     "timeWeek": 275,
@@ -1169,7 +1170,8 @@
       "2026-08-22": 130,
       "2026-08-23": 265,
       "2026-08-24": 129,
-      "2026-08-25": 88
+      "2026-08-25": 88,
+      "2026-08-26": 11
     }
   },
   {
@@ -1177,11 +1179,11 @@
     "url": "https://identidapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/identidapp.com.ico",
     "slug": "i-dentidapp-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "90.80%",
-    "uptimeMonth": "90.03%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "90.01%",
     "uptimeYear": "98.55%",
     "time": 319,
     "timeDay": 239,
@@ -1216,7 +1218,8 @@
       "2026-08-22": 115,
       "2026-08-23": 205,
       "2026-08-24": 110,
-      "2026-08-25": 78
+      "2026-08-25": 78,
+      "2026-08-26": 6
     }
   },
   {
@@ -1224,10 +1227,10 @@
     "url": "https://seguimientolegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/seguimientolegal.com.ico",
     "slug": "seguimiento-legal-pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "92.22%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "92.34%",
     "uptimeMonth": "90.61%",
     "uptimeYear": "98.63%",
     "time": 566,
@@ -1263,7 +1266,8 @@
       "2026-08-22": 100,
       "2026-08-23": 150,
       "2026-08-24": 80,
-      "2026-08-25": 68
+      "2026-08-25": 68,
+      "2026-08-26": 1
     }
   },
   {
