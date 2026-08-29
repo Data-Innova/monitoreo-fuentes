@@ -1,7 +1,7 @@
 url: https://nombres.compliance.com.co/healthcheck
-status: down
-code: 500
-responseTime: 61
-lastUpdated: 2026-08-29T03:59:56.980Z
+status: up
+code: 200
+responseTime: 939
+lastUpdated: 2026-08-29T07:27:05.529Z
 startTime: 2025-04-15T16:41:45.349Z
 generator: Upptime <https://github.com/upptime/upptime>
