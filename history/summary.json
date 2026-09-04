@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/criticos.compliance.com.co.ico",
     "slug": "criticos",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -445,9 +445,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/nombres-bogota.compliance.com.co.ico",
     "slug": "extractor-nombres-bogota",
     "status": "up",
-    "uptime": "62.65%",
+    "uptime": "62.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "32.71%",
+    "uptimeWeek": "33.81%",
     "uptimeMonth": "63.92%",
     "uptimeYear": "68.84%",
     "time": 358,
@@ -781,7 +781,7 @@
     "status": "up",
     "uptime": "98.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.41%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "97.34%",
     "time": 3283,
@@ -1068,15 +1068,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.compliance.com.co.ico",
     "slug": "compliance-pagina-web",
     "status": "down",
-    "uptime": "98.00%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "98.00%",
+    "uptime": "97.97%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "85.84%",
+    "uptimeYear": "97.97%",
     "time": 322,
     "timeDay": 170,
     "timeWeek": 385,
-    "timeMonth": 339,
+    "timeMonth": 340,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2026-07-12": 120,
@@ -1108,7 +1108,7 @@
       "2026-08-26": 103,
       "2026-08-27": 253,
       "2026-08-29": 323,
-      "2026-09-04": 16
+      "2026-09-04": 127
     }
   },
   {
@@ -1135,15 +1135,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/certificar.co.ico",
     "slug": "certificar-pagina-web",
     "status": "down",
-    "uptime": "98.22%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "87.95%",
-    "uptimeYear": "98.22%",
+    "uptime": "98.19%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "87.84%",
+    "uptimeYear": "98.19%",
     "time": 299,
     "timeDay": 255,
     "timeWeek": 380,
-    "timeMonth": 288,
+    "timeMonth": 289,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2026-03-13": 34,
@@ -1177,7 +1177,7 @@
       "2026-08-26": 94,
       "2026-08-27": 248,
       "2026-08-29": 313,
-      "2026-09-04": 11
+      "2026-09-04": 122
     }
   },
   {
@@ -1186,11 +1186,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/identidapp.com.ico",
     "slug": "i-dentidapp-pagina-web",
     "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "89.36%",
-    "uptimeYear": "98.41%",
+    "uptime": "98.38%",
+    "uptimeDay": "91.87%",
+    "uptimeWeek": "95.83%",
+    "uptimeMonth": "89.26%",
+    "uptimeYear": "98.38%",
     "time": 318,
     "timeDay": 300,
     "timeWeek": 300,
@@ -1228,7 +1228,7 @@
       "2026-08-26": 84,
       "2026-08-27": 243,
       "2026-08-29": 303,
-      "2026-09-04": 6
+      "2026-09-04": 117
     }
   },
   {
@@ -1237,11 +1237,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seguimientolegal.com.ico",
     "slug": "seguimiento-legal-pagina-web",
     "status": "down",
-    "uptime": "98.50%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "89.98%",
-    "uptimeYear": "98.50%",
+    "uptime": "98.47%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "89.87%",
+    "uptimeYear": "98.47%",
     "time": 563,
     "timeDay": 291,
     "timeWeek": 462,
@@ -1279,7 +1279,7 @@
       "2026-08-26": 74,
       "2026-08-27": 238,
       "2026-08-29": 293,
-      "2026-09-04": 2
+      "2026-09-04": 112
     }
   },
   {
